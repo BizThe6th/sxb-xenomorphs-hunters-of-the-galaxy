@@ -1,0 +1,9 @@
+{
+	"name": "sxb_xenomorphs",
+	"friendlyName": "Xenomorphs- hunters of the galaxy!",
+	"author": "The6thBiz and Cute Toffee",
+	"link": "https://discord.gg/BuJN6ye4U9",
+	"description": "^orange;Biz and Toffee's horny Xenomorphs!^reset;\n\nStarbound mod that adds Xenomorphs and... procreation mechanics via Sexbound.",
+	"version": "ALPHA.1.0.0",
+	"requires": [ "lox_sexbound" ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/SteamLibrary/steamapps/common/Starbound/assets/packed/packed.iml" filepath="D:/SteamLibrary/steamapps/common/Starbound/assets/packed/packed.iml" />
+      <module fileurl="file://I:/My Drive/xeno assets/xeno assets.iml" filepath="I:/My Drive/xeno assets/xeno assets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/xenomorphs.iml" filepath="$PROJECT_DIR$/.idea/xenomorphs.iml" />
+    </modules>
+  </component>
+</project>
